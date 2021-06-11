@@ -1,31 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tachi\\Projects_PrograAvanzada\\3_Parcial\\EscuelaWeb\\EscuelaWeb.csproj": {}
+    "C:\\Users\\Abime\\OneDrive\\Documents\\Ecuela\\Viru\\Maestros\\EscuelaWeb.csproj": {}
   },
   "projects": {
-    "D:\\Tachi\\Projects_PrograAvanzada\\3_Parcial\\EscuelaWeb\\EscuelaWeb.csproj": {
+    "C:\\Users\\Abime\\OneDrive\\Documents\\Ecuela\\Viru\\Maestros\\EscuelaWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tachi\\Projects_PrograAvanzada\\3_Parcial\\EscuelaWeb\\EscuelaWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Abime\\OneDrive\\Documents\\Ecuela\\Viru\\Maestros\\EscuelaWeb.csproj",
         "projectName": "EscuelaWeb",
-        "projectPath": "D:\\Tachi\\Projects_PrograAvanzada\\3_Parcial\\EscuelaWeb\\EscuelaWeb.csproj",
-        "packagesPath": "C:\\Users\\antac\\.nuget\\packages\\",
-        "outputPath": "D:\\Tachi\\Projects_PrograAvanzada\\3_Parcial\\EscuelaWeb\\obj\\",
+        "projectPath": "C:\\Users\\Abime\\OneDrive\\Documents\\Ecuela\\Viru\\Maestros\\EscuelaWeb.csproj",
+        "packagesPath": "C:\\Users\\Abime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abime\\OneDrive\\Documents\\Ecuela\\Viru\\Maestros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\antac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Abime\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net50"
+          "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net50": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -36,24 +35,33 @@
         }
       },
       "frameworks": {
-        "net50": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "(, )"
-            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.6, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win7-x86": {
-          "#import": []
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
