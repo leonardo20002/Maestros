@@ -40,13 +40,11 @@ D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\Microsoft
 D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
 D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
 D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
 D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\SQLitePCLRaw.core.dll
 D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
-D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
 D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
 D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
@@ -122,3 +120,7 @@ C:\Users\Abime\OneDrive\Documents\Ecuela\Viru\Maestros\obj\Debug\net5.0\EscuelaW
 C:\Users\Abime\OneDrive\Documents\Ecuela\Viru\Maestros\obj\Debug\net5.0\ref\EscuelaWeb.dll
 C:\Users\Abime\OneDrive\Documents\Ecuela\Viru\Maestros\obj\Debug\net5.0\EscuelaWeb.pdb
 C:\Users\Abime\OneDrive\Documents\Ecuela\Viru\Maestros\obj\Debug\net5.0\EscuelaWeb.genruntimeconfig.cache
+D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\Humanizer.dll
+D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Tachi\Projects_PrograAvanzada\3_Parcial\EscuelaWeb\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
